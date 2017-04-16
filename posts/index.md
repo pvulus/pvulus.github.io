@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: penny for your thoughts?
+title: Let's talk.
 excerpt: "A List of Posts"
 comments: false
 ---
