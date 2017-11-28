@@ -1,10 +1,10 @@
 # Site
 title:              PVULUS
-bio:                'a herbaceous plant putting virtual pen to paper.'
+bio:                'endlessly chasing the moon.'
 description:        "hey, I'm veronica. let's talk."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/robot.png'
 background:         'assets/img/Night.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
