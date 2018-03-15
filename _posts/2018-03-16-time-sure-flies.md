@@ -17,7 +17,7 @@ I had too many things to do, and a bottomless pit of demotivation too big. Now, 
 
 I eventually realised that there was a specific pattern to my erratic journaling habits—if you could really even call it that. It goes like this: I have something to do, and, as per usual, my brain refuses to do it. My mind wanders, arriving at the same destination every time it does so: all the painfully embarrassing things that I've written in the past.
 
-It kind of scared me, how I really didn't think about... well, anything back then, really. At least, not when I compared it to how utterly self-absorbed I seemed in the past. My mind was an endless blank, an infinite inversion of itself; every time I try to introspectively visit a thought, my brain performs five somersaults in a row and tries its best to emulate a washing machine on its highest setting.
+It kind of scared me, how I really didn't think about... well, anything back then, really. At least, not when I compared it to how utterly self-absorbed I seemed in the distant past. My mind was an endless blank, an infinite inversion of itself; every time I tried to introspectively visit a thought, my brain performed five somersaults in a row and tried its best to emulate a washing machine on its highest setting.
 
 I knew it all along; promises made to myself are largely empty, and ultimately, rather meaningless. All of my writing was based on pain. Hilariously enough, there was nothing for me to say in the absence of emotional turmoil. I supposed that it was largely true, what they say—how people must suffer in order to make great art. Although in my case, we could probably do with leaving out the 'great' part; there's nothing great about cowardice, after all.
 
