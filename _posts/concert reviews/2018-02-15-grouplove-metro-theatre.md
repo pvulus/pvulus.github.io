@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "GROUPLOVE // The Metro Theatre"
+title:  "GROUPLOVE @ The Metro Theatre"
 date:   2018-02-15
 excerpt: "If you think about it, being tongue tied actually sounds rather morbid; not to mention, agonisingly painful."
+feature: https://s3-ap-southeast-2.amazonaws.com/savetonight/2018/02/grouplove-2849.jpg
 tags: [concert reviews]
 ---
-## GROUPLOVE — The Metro Theatre
+## Take me to your best friend's house, roll around this roundabout, oh, yeah.
 
 **GROUPLOVE**, affectionately known as one of *Triple J’s* darlings, touched down in Sydney earlier this week for one of the last stops on their Australian tour—the first one in 18 months, in fact. Along for the ride were fellow indie rockers **The Ruminaters**, guaranteeing a headbanging supporting act to kick things off—all of which were slated to play at Sydney’s trustworthy Metro Theatre last Thursday.
 
@@ -23,3 +24,6 @@ With a graceful bow and an immensely heartwarming group hug, **GROUPLOVE** exite
 Having been unfamiliar with **GROUPLOVE** prior to the concert, I can safely say that my expectations were absolutely smashed; this is an act that everyone should 100% see.
 
 I promise they won’t leave you tongue tied.
+
+Featured photo by **Georgia Moloney** for [SaveTonight](http://www.savetonight.com.au/portfolio/grouplove-metro-theatre).
+{: .notice}

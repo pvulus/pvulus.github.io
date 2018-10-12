@@ -4,7 +4,7 @@ title:  "phl250; aesthetics journal."
 date: 2018-10-06
 excerpt: "my aesthetics journal submission for phl250; philosophy of arts and literature."
 project: true
-tags: [phl250]
+tags: [academia]
 ---
 ## week 1; what is aesthetics?
 In fact, what is a world *without* aesthetics?
