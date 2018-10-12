@@ -3,7 +3,7 @@ layout: post
 title:  "GoldLink @ The Enmore Theatre."
 date:   2018-03-22
 excerpt: "I mean it, lads, the man is a professional ice skater, and we are his boundlessly impressionable rink."
-feature: https://image.ibb.co/cf6cjU/goldlink.png
+feature: https://image.ibb.co/kpy4yp/goldlink.png
 tags: [concert reviews]
 ---
 ## Honestly? Smoother than a goddamn baby's bottom.
