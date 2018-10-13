@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GoldLink @ The Enmore Theatre."
+title:  "LIVE: GoldLink / Enmore Theatre"
 date:   2018-03-22
 excerpt: "I mean it, lads, the man is a professional ice skater, and we are his boundlessly impressionable rink."
 feature: https://image.ibb.co/fvMUW9/gl.png

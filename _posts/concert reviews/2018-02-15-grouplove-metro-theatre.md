@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GROUPLOVE @ The Metro Theatre."
+title:  "LIVE: GROUPLOVE / Metro Theatre"
 date:   2018-02-15
 excerpt: "If you think about it, being tongue tied actually sounds rather morbid; not to mention, agonisingly painful."
 feature: https://image.ibb.co/dbnsjU/grouplove.png
