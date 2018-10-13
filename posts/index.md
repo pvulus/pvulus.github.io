@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Let's talk.
+title: let's talk.
 excerpt: "A List of Posts"
 comments: false
 ---
