@@ -36,13 +36,12 @@ The following questions, taken from the Eldridge (2003) reading, come to mind wh
   * **Does the value of a work depend upon what it represents; and if so, how?**
   * Is representation **even necessary** for art? Is it sufficient?
 
-Take for example this 6-minute excerpt of **Kashiwa Daisuke's**
+Take, for example, this 6-minute excerpt of **Kashiwa Daisuke's**
 *Stella* (which I highly recommend [listening to in full](https://www.youtube.com/watch?v=ei7cdynwRMA)), played over the backdrop of-for lack of better words-a hauntingly ambiguous 'art' film.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/ei7cdynwRMA" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/3vA32Nf_auY" frameborder="0"> </iframe>
 
-While I'm sure this video seems to signify nothing in particular to a lot of people, many of them would be hard-pressed *not* to call it 'art'. However, if art ought to be defined as representation, then can we really say this video is art? What exactly 
-
+While I'm sure this video seems to signify nothing in particular to a lot of people, many of them would be hard-pressed *not* to call it 'art'. However, if art ought to be defined as representation, then can we really say this video is art? What exactly
 
 
 <!-- ## Week 3; Art as expression.
