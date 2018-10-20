@@ -6,7 +6,7 @@ excerpt: "My aesthetics journal submission for PHL250; Philosophy of Arts and Li
 project: true
 tags: [academia]
 ---
-## Week 1; What is aesthetics?
+## WEEK 1 :: WHAT IS AESTHETICS?
 In fact, what is a world **_without_** aesthetics?
 
 Undeniably, such a world—that is, a world without aesthetic qualities—would be:
