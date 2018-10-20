@@ -7,6 +7,7 @@ project: true
 tags: [academia]
 ---
 ## Week 1: What is Aesthetics?
+### July 31, 2018
 In fact, what is a world **_without_** aesthetics?
 
 Undeniably, such a world—that is, a world without aesthetic qualities—would be:
@@ -27,6 +28,7 @@ With that being said, perhaps I, myself, never properly understood the subtletie
 ---
 
 ## Week 2: Art as Representation.
+### August 7, 2018
 I think it can be universally agreed upon that art, in all its different shapes and forms, seems to be *about* something—to **represent** something. The key question then, as brought up in the Eldridge (2003) reading this week, is *how* representation is achieved in these various forms of media.
 
 The following questions, taken from the Eldridge (2003) reading, come to mind when attempting to reason with the above:
