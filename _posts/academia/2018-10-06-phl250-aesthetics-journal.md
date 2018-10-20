@@ -6,7 +6,7 @@ excerpt: "My aesthetics journal submission for PHL250; Philosophy of Arts and Li
 project: true
 tags: [academia]
 ---
-# Week 1: What is Aesthetics?
+## Week 1: What is Aesthetics?
 In fact, what is a world **_without_** aesthetics?
 
 Undeniably, such a world—that is, a world without aesthetic qualities—would be:
@@ -26,7 +26,7 @@ With that being said, perhaps I, myself, never properly understood the subtletie
 
 ---
 
-# Week 2: Art as Representation.
+## Week 2: Art as Representation.
 I think it can be universally agreed upon that art, in all its different shapes and forms, seems to be *about* something—to **represent** something. The key question then, as brought up in the Eldridge (2003) reading this week, is *how* representation is achieved in these various forms of media.
 
 The following questions, taken from the Eldridge (2003) reading, come to mind when attempting to reason with the above:
@@ -35,6 +35,14 @@ The following questions, taken from the Eldridge (2003) reading, come to mind wh
   * Is the same sense of "representation" involved in different mediums?
   * **Does the value of a work depend upon what it represents; and if so, how?**
   * Is representation **even necessary** for art? Is it sufficient?
+
+Take for example this 6-minute excerpt of **Kashiwa Daisuke's**
+*Stella* (which I highly recommend [listening to in full](https://www.youtube.com/watch?v=ei7cdynwRMA)), played over the backdrop of-for lack of better words-a hauntingly ambiguous 'art' film.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3vA32Nf_auY" frameborder="0"> </iframe>
+
+
+
 
 
 <!-- ## Week 3; Art as expression.
