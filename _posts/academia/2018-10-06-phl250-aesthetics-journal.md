@@ -10,7 +10,7 @@ tags: [academia]
 In fact, what is a world **_without_** aesthetics?
 
 Undeniably, such a world—that is, a world without aesthetic qualities—would be:
-> [...] inferior, if not uninhabitable altogether. Consequently, a person without capacity for an aesthetic response, if even possible, would not quality as a fully developed human being. — **(Gardner, 2003.)**
+> [...] inferior, if not uninhabitable altogether. Consequently, a person without capacity for an aesthetic response, if even possible, would not quality as a fully developed human being. — **(Gardner, 2003)**.
 
 This statement by Gardner presents itself as particularly striking to me. As a young adult living in our current generation of youth, art—and by extension, aesthetics—is most often dismissed as mere tripe, or something that's not to be taken seriously, in favour of fields of interest that are directly tied to the era of technological advancement that we live in.
 
@@ -37,13 +37,18 @@ The following questions, taken from the Eldridge (2003) reading, come to mind wh
   * Is representation **even necessary** for art? Is it sufficient?
 
 Take, for example, this 6-minute excerpt of **Kashiwa Daisuke's**
-*Stella* (which I highly recommend [listening to in full](https://www.youtube.com/watch?v=ei7cdynwRMA)), played over the backdrop of-for lack of better words-a hauntingly ambiguous 'art' film.
+*Stella* (which I highly recommend [listening to in full](https://www.youtube.com/watch?v=ei7cdynwRMA)), played over the backdrop of—for lack of better words—a hauntingly ambiguous 'art' film.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/3vA32Nf_auY" frameborder="0"> </iframe>
 
-While I'm sure this video seems to signify nothing in particular to a lot of people, many of them would be hard-pressed *not* to call it 'art'. However, if art ought to be defined as representation, then can we really say this video is art? What exactly
+While I'm sure this video would mean different things to different people, whether it be positive or negative, many of them would be hard-pressed *not* to call it 'art'. However, what is it about this aesthetic experience that beckons people to acknowledge its status as art, despite their personal responses to it? Is it enough to categorise this video as art simply because it represented something to a vast majority of people?
 
+Consider this: propaganda, too, is a medium that **represents something** whilst evoking a response from an audience—but we don't call propaganda art, do we?
 
-<!-- ## Week 3; Art as expression.
+Similarly, if we take away the video and listen to **Daisuke's** instrumental piece on its own, would that satisfy the requirements of viewing art as representation? Certainly so, as even within its first six minutes, *Stella* manages to weave an instrumental, narrative tapestry, undoubtedly telling a story of some kind. However, would this criteria alone suffice for the defining of 'art'?
 
-## Week 4; Art as institution. -->
+The conclusion to be made here, then, is that representation in and of itself is **not a sufficient condition for art**. For if it were, there's absolutely nothing to differentiate between, say, **Daisuke's** *Stella* and a pamphlet of instructions for assembling a piece of IKEA furniture.
+
+---
+
+<!-- # Week 3; Art as expression. -->
