@@ -55,15 +55,21 @@ The conclusion to be made here, then, is that representation in and of itself is
 
 ## Week 3; Art as Expression.
 ### August 14, 2018
-So if not all art can be 'represented' per se, can it be **expressed** instead?
+So, if not all art can be 'represented' per se, can it be **expressed** instead?
 Similar to last week's entry, this week's area of focus rests on the theory of viewing art as a form of expression—in which several of its theoretical conditions can be found below:
 
-  * **Artistic intention**: the *intentional* communication of feeling and/or emotion, using appropriate form
-  * **Transmission theory**:
-  * **Experience condition**: the condition that an artist must have personally experienced an emotional state before attempting to portray it in art
+  * **Artistic intention**: the *intentional* communication of feeling and/or emotion, using appropriate form.
+  * **Transmission theory**: the requirement for an artist to 'transfer' an emotional state; from sender, to recipient.
+  * **Experience condition**: the condition that an artist must have personally experienced an emotional state before attempting to portray it in art.
 
 After taking into account the stated conditions, the obvious critique to be made here, then, is this: **what about artworks that are clearly devoid of any obvious emotional expression?**
 
-In order to answer the above, consider the following photo:
+In order to answer the above, consider the following artwork by avant-garde artist **MLMA**, titled *We Watched Cloud Atlas Last Night (2018)*:
 
-![alt text](https://instagram.fsyd4-1.fna.fbcdn.net/vp/3fd68b9c326e840b0e6a95722b556521/5C4F4F5C/t51.2885-15/sh0.08/e35/s750x750/42749829_2001407493255577_6304776576424622240_n.jpg "MLMA - We Watched Cloud Atlas Last Night (2018)")
+![alt text](https://image.ibb.co/cgLROA/resized.jpg "MLMA - We Watched Cloud Atlas Last Night (2018)")
+
+How would one attempt to acutely ascribe emotional expression to this photo—if even feasible? It's clear that emotional expression is present; however, the real problem lies in the fact that there seems to be no singular, definitive way of interpreting these said emotions. This, perhaps, could be attributed to the fact that there is **no artistic intention whatsoever** within the photo. Yes, there certainly is the communication of feeling; but whether the artist *intended* for it to be so is a separate matter entirely—one that exposes the shortcomings of viewing art as expression.
+
+Consequently, without an obvious artistic intention, the application of the transmission theory is deemed moot: what specific, emotional state is there to 'transfer'? Is this 'clarification of emotion' even necessary to define art in the first place?
+
+Although the theory of art as expression can be successfully applied in a large number of instances, the fact that *We Watched Cloud Atlas Last Night (2018)* does not fulfil the theoretical requirements only serves to render the framework as somewhat valid—yet blatantly incomplete, much like viewing art as representation. 
