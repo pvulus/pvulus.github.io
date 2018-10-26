@@ -53,4 +53,17 @@ The conclusion to be made here, then, is that representation in and of itself is
 
 ---
 
-<!-- # Week 3; Art as expression. -->
+## Week 3; Art as Expression.
+### August 14, 2018
+So if not all art can be 'represented' per se, can it be **expressed** instead?
+Similar to last week's entry, this week's area of focus rests on the theory of viewing art as a form of expression—in which several of its theoretical conditions can be found below:
+
+  * **Artistic intention**: the *intentional* communication of feeling and/or emotion, using appropriate form
+  * **Transmission theory**:
+  * **Experience condition**: the condition that an artist must have personally experienced an emotional state before attempting to portray it in art
+
+After taking into account the stated conditions, the obvious critique to be made here, then, is this: **what about artworks that are clearly devoid of any obvious emotional expression?**
+
+In order to answer the above, consider the following photo:
+
+![alt text](https://instagram.fsyd4-1.fna.fbcdn.net/vp/3fd68b9c326e840b0e6a95722b556521/5C4F4F5C/t51.2885-15/sh0.08/e35/s750x750/42749829_2001407493255577_6304776576424622240_n.jpg "MLMA - We Watched Cloud Atlas Last Night (2018)")
