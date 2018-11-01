@@ -108,3 +108,18 @@ Consider, for example, the following artwork by Yayoi Kusama, titled *Accumulati
 ![alt text](https://preview.ibb.co/mHZLf0/Screen-Shot-2018-11-01-at-9-47-19-pm.png "Yayoi Kusama - Accumulation of Corpses (1950)")
 
 Despite not sharing many characteristics with typical traditions of 'beauty', this artwork is one that I find, personally, to be beautiful. Though the painting is grim in every sense of the word, I find that it conveys the unavoidable horrors in life that many face—and just as the Ancient Greeks once did, I feel that there's beauty to be found in revelations of truth; whether they be positive, or negative.
+
+---
+
+## Week 6; Beauty, desire, and pleasure.
+### September 4, 2018
+In the same vein of last week's area of focus, this week centres on different interpretations in which to view beauty. Although numerous meanings were discussed, the following two particularly stood out to me:
+
+  * Nehamas' view of beauty as **a promise of happiness**, and
+  * the platonic ideal of **beauty as perfection**.
+
+Nehamas (2000) expresses a deep desire to know and possess—and in turn, be possessed by—a feeling not dissimilar to emotions of friendship and love for others. He turns to the concept of beauty to answer his desires, claiming that within beauty lies the promise of something more—which, in turn, causes beauty to become an inexhaustible source of pleasure, meaning, and self-transformation.
+
+This can be easily interpreted by viewing beauty as something that most people constantly strive for—be it consciously or subconsciously—consequently giving their journey meaning and purpose. Ultimately, this often lifelong endeavor is undertaken in the hopes of experiencing a pleasure that's attainable only through self-transformation.
+
+Conversely, the platonic notion of beauty as perfection concerns itself with the desire for all that is 'ideal'. Thus, beauty is linked to desire; for in our quest for perfection, we are expressing none other than a desire for self-transcendence—for immortality. 
