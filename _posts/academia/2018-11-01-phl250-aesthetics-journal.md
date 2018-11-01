@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PHL250 - Aesthetics Journal"
-date: 2018-10-06
+date: 2018-11-01
 excerpt: "My aesthetics journal submission for PHL250; Philosophy of Arts and Literature."
 project: true
 tags: [academia]
@@ -122,4 +122,4 @@ Nehamas (2000) expresses a deep desire to know and possess—and in turn, be pos
 
 This can be easily interpreted by viewing beauty as something that most people constantly strive for—be it consciously or subconsciously—consequently giving their journey meaning and purpose. Ultimately, this often lifelong endeavor is undertaken in the hopes of experiencing a pleasure that's attainable only through self-transformation.
 
-Conversely, the platonic notion of beauty as perfection concerns itself with the desire for all that is 'ideal'. Thus, beauty is linked to desire; for in our quest for perfection, we are expressing none other than a desire for self-transcendence—for immortality. 
+Conversely, the platonic notion of beauty as perfection concerns itself with the desire for all that is 'ideal'. Thus, beauty is linked to desire; for in our quest for perfection, we are expressing none other than a desire for self-transcendence—for immortality.
