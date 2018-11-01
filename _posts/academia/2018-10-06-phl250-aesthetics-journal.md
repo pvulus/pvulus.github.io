@@ -6,7 +6,7 @@ excerpt: "My aesthetics journal submission for PHL250; Philosophy of Arts and Li
 project: true
 tags: [academia]
 ---
-## Week 1: What is Aesthetics?
+## Week 1: What is aesthetics?
 ### July 31, 2018
 In fact, what is a world **_without_** aesthetics?
 
@@ -27,7 +27,7 @@ With that being said, perhaps I, myself, never properly understood the subtletie
 
 ---
 
-## Week 2: Art as Representation.
+## Week 2: Art as representation.
 ### August 7, 2018
 I think it can be universally agreed upon that art, in all its different shapes and forms, seems to be *about* something—to **represent** something. The key question then, as brought up in the Eldridge (2003) reading this week, is *how* representation is achieved in these various forms of media.
 
@@ -53,7 +53,7 @@ The conclusion to be made here, then, is that representation in and of itself is
 
 ---
 
-## Week 3; Art as Expression.
+## Week 3; Art as expression.
 ### August 14, 2018
 So, if not all art can be 'represented' per se, can it be **expressed** instead?
 Similar to last week's entry, this week's area of focus rests on the theory of viewing art as a form of expression—in which several of its theoretical conditions can be found below:
@@ -76,7 +76,7 @@ Although the theory of art as expression can be successfully applied in a large 
 
 ---
 
-## Week 4; Art as Institution.
+## Week 4; Art as institution.
 ### August 21, 2018
 This week we look at Danto (1964), who rebukes the initial theories of art as representation, as well as art as expression, as no longer applicable to modern art. Rather than its former interpretations, Danto (1964) instead chooses to endorse the third installation in this 'series', if you will: art as institution.
 
@@ -92,4 +92,19 @@ The above phenomenon is strongly reminiscent of Andy Warhol's *Brillo Boxes*, pi
 
 ![alt text](https://image.ibb.co/krjADL/Warhol-Brillo-Boxes-1964.png "Andy Warhol - Brillo Boxes (1964)")
 
-One of the most common things for people of my generation to say when looking at art is that they "just don't get it". After learning about the artworld, I now understand why. 
+One of the most common things for people of my generation to say when looking at art is that they "just don't get it". After learning about the artworld, I now understand why.
+
+---
+
+## Week 5; The subjectivity and objectivity of beauty.
+### August 28, 2018
+Truth be told, is it even possible to find objectivity in beauty?
+After all, everyone knows the saying; beauty is in the eye of the beholder.
+
+Instead of the inclusivity—or exclusivity, rather—of the 'artworld' and interpretations of art based on its shock value, seeing art as beauty is synonymous with seeing **art as giving pleasure**. This means that, first and foremost, art as beauty heavily relies on one's subjective perception; thus giving way to other factors such as sensation, sensuous immersion, and, ultimately, aesthetic pleasure.
+
+Consider, for example, the following artwork by Yayoi Kusama, titled *Accumulation of Corpses (Prisoner Surrounded by the Curtain of Depersonalisation)* (1950).
+
+![alt text](https://preview.ibb.co/mHZLf0/Screen-Shot-2018-11-01-at-9-47-19-pm.png "Yayoi Kusama - Accumulation of Corpses (1950)")
+
+Despite not sharing many characteristics with typical traditions of 'beauty', this artwork is one that I find, personally, to be beautiful. Though the painting is grim in every sense of the word, I find that it conveys the unavoidable horrors in life that many face—and just as the Ancient Greeks once did, I feel that there's beauty to be found in revelations of truth; whether they be positive, or negative.
