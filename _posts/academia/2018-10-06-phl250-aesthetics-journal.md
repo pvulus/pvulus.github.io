@@ -72,4 +72,24 @@ How would one attempt to acutely ascribe emotional expression to this photo—if
 
 Consequently, without an obvious artistic intention, the application of the transmission theory is deemed moot: what specific, emotional state is there to 'transfer'? Is this 'clarification of emotion' even necessary to define art in the first place?
 
-Although the theory of art as expression can be successfully applied in a large number of instances, the fact that *We Watched Cloud Atlas Last Night (2018)* does not fulfil the theoretical requirements only serves to render the framework as somewhat valid—yet blatantly incomplete, much like viewing art as representation. 
+Although the theory of art as expression can be successfully applied in a large number of instances, the fact that *We Watched Cloud Atlas Last Night (2018)* does not fulfil the theoretical requirements only serves to render the framework as somewhat valid—yet blatantly incomplete, much like viewing art as representation.
+
+---
+
+## Week 4; Art as Institution.
+### August 21, 2018
+This week we look at Danto (1964), who rebukes the initial theories of art as representation, as well as art as expression, as no longer applicable to modern art. Rather than its former interpretations, Danto (1964) instead chooses to endorse the third installation in this 'series', if you will: art as institution.
+
+Interpreting art as institution came to be born through the following question: **how can we distinguish between artworks and real things?**
+
+What's to separate, say, an 'art installation' of a couch placed in front of a working television from one's living room at home?
+
+Happening upon this realisation, Danto (1964) created the notion of the 'artworld'—a world inhabited only by those who understand it.
+
+This brings me back to reflect on my first journal entry. In the current social climate of young adults such as myself, there has been an incredible insurgence of 'art' that typically defies all well-established traditions and conventions. Mere, everyday objects were dubbed 'art'; thus leading to the mass confusion, and even hostility, towards people who claimed they understood the meaning behind all this new 'art'.
+
+The above phenomenon is strongly reminiscent of Andy Warhol's *Brillo Boxes*, pictured below. This is an artwork created to show that what labels an artwork as art isn't a physical, tangible property; but rather, the condensing of ideas, knowledge, and practices that define context in the 'artworld'.
+
+![alt text](https://image.ibb.co/krjADL/Warhol-Brillo-Boxes-1964.png "Andy Warhol - Brillo Boxes (1964)")
+
+One of the most common things for people of my generation to say when looking at art is that they "just don't get it". After learning about the artworld, I now understand why. 
